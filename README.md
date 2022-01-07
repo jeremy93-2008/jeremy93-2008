@@ -1,4 +1,6 @@
-### Hi there 👋
+# Jeremy Auvray ( <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"> JS Developer and <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" alt="Arch Linux" width="40" height="40" style="max-width: 100%;">  Arch lover)
+
+![Jeremy's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=jeremy93-2008&theme=onedark&show_icons=true&count_private=true%20%E2%80%9CAndres%E2%80%99%20GutHub%20Stats%E2%80%9D)
 
 <!--
 **jeremy93-2008/jeremy93-2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
